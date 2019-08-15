@@ -1,0 +1,28 @@
+server:
+  port: 7007
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:6868/eureka
+  instance:
+    instance-id: education-discuss
+    prefer-ip-address: true
+spring:
+  application:
+    name: education-discuss
+  data:
+    mongodb:
+      host: 127.0.0.1
+      port: 27017
+      database: education
+  datasource:
+    url: jdbc:mysql://localhost:3306/education_demo?characterEncoding=UTF8&serverTimezone=GMT%2B8
+    username: root
+    password: root
+  jpa:
+    database: mysql
+    show-sql: true
+jwt:
+  config:
+    ttl: 360000
+    key: education

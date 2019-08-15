@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="education-testFreemaker:war">
+    <output-path>$PROJECT_DIR$/education-testFreemaker/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>education-testFreemaker</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="testFreemarker.war">
+      <element id="artifact" artifact-name="education-testFreemaker:war exploded" />
+    </root>
+  </artifact>
+</component>

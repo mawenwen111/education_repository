@@ -1,0 +1,24 @@
+server:
+  port: 7002
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:6868/eureka
+  instance:
+    instance-id: education-sms
+    prefer-ip-address: true
+spring:
+  application:
+    name: education-sms
+
+  #rabbitmq配置信息
+  rabbitmq:
+    host: 192.168.211.130
+  redis:
+    host: 127.0.0.1
+aliyun:
+  sms:
+    accessKeyId: LTAIfqgbO6P4HPlc
+    accessKeySecret: c0FqORL140hpQXKSea8K54K8Aa4Vqy
+    template_code: SMS_165676271
+    sign_name: 我爱喝可乐

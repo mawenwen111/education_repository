@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/education-common/education-common.iml" filepath="$PROJECT_DIR$/education-common/education-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/education-course/education-course.iml" filepath="$PROJECT_DIR$/education-course/education-course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/education-course/education-courseEs.iml" filepath="$PROJECT_DIR$/education-course/education-courseEs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/education-discuss/education-discuss.iml" filepath="$PROJECT_DIR$/education-discuss/education-discuss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/education-eureka/education-eureka.iml" filepath="$PROJECT_DIR$/education-eureka/education-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/education-freeMarker/education-freeMarker.iml" filepath="$PROJECT_DIR$/education-freeMarker/education-freeMarker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/education-parent.iml" filepath="$PROJECT_DIR$/education-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/education-path/education-path.iml" filepath="$PROJECT_DIR$/education-path/education-path.iml" />
+      <module fileurl="file://$PROJECT_DIR$/education-practice/education-practice.iml" filepath="$PROJECT_DIR$/education-practice/education-practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/education-search/education-search.iml" filepath="$PROJECT_DIR$/education-search/education-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/education-service/education-service.iml" filepath="$PROJECT_DIR$/education-service/education-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/education-sms/education-sms.iml" filepath="$PROJECT_DIR$/education-sms/education-sms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/education-testFreemaker/education-testFreemaker.iml" filepath="$PROJECT_DIR$/education-testFreemaker/education-testFreemaker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/education-user/education-user.iml" filepath="$PROJECT_DIR$/education-user/education-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/education-web/education-web.iml" filepath="$PROJECT_DIR$/education-web/education-web.iml" />
+    </modules>
+  </component>
+</project>

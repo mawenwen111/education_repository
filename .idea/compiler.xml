@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="education-common" />
+        <module name="education-course" />
+        <module name="education-courseEs" />
+        <module name="education-discuss" />
+        <module name="education-eureka" />
+        <module name="education-freeMarker" />
+        <module name="education-path" />
+        <module name="education-practice" />
+        <module name="education-search" />
+        <module name="education-service" />
+        <module name="education-sms" />
+        <module name="education-testFreemaker" />
+        <module name="education-user" />
+        <module name="education-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="education-common" target="1.8" />
+      <module name="education-course" target="1.8" />
+      <module name="education-courseEs" target="1.8" />
+      <module name="education-discuss" target="1.8" />
+      <module name="education-eureka" target="1.8" />
+      <module name="education-freeMarker" target="1.8" />
+      <module name="education-parent" target="1.8" />
+      <module name="education-path" target="1.8" />
+      <module name="education-practice" target="1.8" />
+      <module name="education-search" target="1.8" />
+      <module name="education-service" target="1.8" />
+      <module name="education-sms" target="1.8" />
+      <module name="education-testFreemaker" target="1.8" />
+      <module name="education-user" target="1.8" />
+      <module name="education-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="education-common" options="-parameters" />
+      <module name="education-course" options="-parameters" />
+      <module name="education-courseEs" options="-parameters" />
+      <module name="education-discuss" options="-parameters" />
+      <module name="education-eureka" options="-parameters" />
+      <module name="education-freeMarker" options="-parameters" />
+      <module name="education-path" options="-parameters" />
+      <module name="education-practice" options="-parameters" />
+      <module name="education-search" options="-parameters" />
+      <module name="education-service" options="-parameters" />
+      <module name="education-sms" options="-parameters" />
+      <module name="education-testFreemaker" options="-parameters" />
+      <module name="education-user" options="-parameters" />
+      <module name="education-web" options="-parameters" />
+    </option>
+  </component>
+</project>
